@@ -7,8 +7,6 @@ CreateThread(function()
 
         playerid = (GetPlayerServerId(PlayerId()))
 
-        print(playerid)
-
         SendNuiMessage(json.encode({
             type = 'id',
             idofplayer = playerid,
