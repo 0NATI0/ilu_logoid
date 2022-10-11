@@ -13,3 +13,8 @@ CreateThread(function()
         }))
     end
 end)
+
+
+-----------------------------------------
+-- VG-MG https://discord.gg/Dbf9FKUpWv --
+-----------------------------------------
