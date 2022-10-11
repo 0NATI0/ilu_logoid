@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+
+.main {
+    right: 5px;
+    top: 5px;
+    width: 86px;
+    height: 40px;
+    background: rgba(0, 0, 0, 0.6);
+    border-radius: 6px;
+    position: absolute;
+    right: 60px;
+    top: 60px;
+}
+
+.img {
+    display: block;
+    position: absolute;
+    right: 3px;
+    width: 32px;
+    height: 32px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.id {
+    color: lightgray;
+    font-family: 'Lilita One';
+    position: absolute;
+    left: 25px;
+    bottom: -15%;
+}
